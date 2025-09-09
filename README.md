@@ -7,13 +7,13 @@ Quản lý dịch vụ
 Quản lý hoá đơn thanh toán 
 
 ## Bảng mô tả thuộc tính 
-![](Screenshot 2025-09-09 220824.png)
+![](img/Screenshot_1.png)
 
 ## Sơ đồ thực thể liên kết 
-![](Screenshot 2025-09-09 220844.png)
+![](img/Screenshot_2.png)
 
 ## Lược đồ phân cấp chức năng hệ thống 
-![](Screenshot 2025-09-09 220908.png)
+![](img/Screenshot_3.png)
 
 ## Lược đồ quan hệ CSDL  quản lý khách sạn
-![](Screenshot 2025-09-09 220926.png)
+![](img/Screenshot_4.png)
